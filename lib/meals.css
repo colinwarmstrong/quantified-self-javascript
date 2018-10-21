@@ -3,7 +3,6 @@ html {
   margin: 0px;
   height: 100%;
   background-image: url("bg-secondary.jpeg");
-
 }
 
 body {
@@ -140,7 +139,6 @@ h3 {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-
 }
 
 #filter-header {
