@@ -127,7 +127,7 @@
 	var resetEditForm = function resetEditForm() {
 	  $('#editNameField').val('');
 	  $('#editCaloriesField').val('');
-	  $("#edit-food-form").hide();
+	  $('#edit-food-form').hide();
 	};
 
 	var patchFood = function patchFood(editedFoodInfo) {

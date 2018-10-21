@@ -1,11 +1,11 @@
 body, html {
-    text-align: center;
-    margin: 0px;
-    height: 100%;
+  text-align: center;
+  margin: 0px;
+  height: 100%;
 }
 
 h1 {
-    margin: 0px 0;
+  margin: 0px 0;
 }
 
 a {
@@ -14,59 +14,59 @@ a {
 }
 
 .main-header {
-    font-family: 'Cinzel', serif;
-    color: #FBEEC1;
-    margin: 0px 0;
+  font-family: 'Cinzel', serif;
+  color: #FBEEC1;
+  margin: 0px 0;
 }
 
 .sub-header {
-    font-family: 'Quattrocento', serif;
-    color: #FBEEC1;
+  font-family: 'Quattrocento', serif;
+  color: #FBEEC1;
 }
 
 .topnav {
-    background-color: #8D8741;
-    overflow: hidden;
+  background-color: #8D8741;
+  overflow: hidden;
 }
 
 .topnav a {
-    background-color: #8D8741;
-    font-family: 'Cinzel', serif;
-    float: left;
-    color: #FBEEC1;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    border-right: 1px solid #FBEEC1;
+  background-color: #8D8741;
+  font-family: 'Cinzel', serif;
+  float: left;
+  color: #FBEEC1;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-right: 1px solid #FBEEC1;
 }
 
 .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-    opacity: 0.3
+  background-color: #ddd;
+  color: black;
+  opacity: 0.3
 }
 
 .bg {
-    background-image: url("QS_bg.jpeg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url("QS_bg.jpeg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .links a:link {
-    font-family: 'Quattrocento', serif;
-    background-color: #FBEEC1;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    border-radius: 12px;
+  font-family: 'Quattrocento', serif;
+  background-color: #FBEEC1;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
 }
 
 .links a:hover {
-    background-color: #BC986A;
+  background-color: #BC986A;
 }
 
 .links {

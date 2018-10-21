@@ -41,7 +41,6 @@ h3 {
 
 tr:hover {
   background-color: #FBEEC1;
-
 }
 
 .topnav {
@@ -104,7 +103,7 @@ tr:hover {
   text-align: center;
 }
 
-#generate-recipes-button{
+#generate-recipes-button {
   height: 50px;
   width: 200px;
   font-size: 18px;

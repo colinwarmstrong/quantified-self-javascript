@@ -1,20 +1,20 @@
 body, html {
-    text-align: center;
-    margin: 0px;
-    height: 100%
+  text-align: center;
+  margin: 0px;
+  height: 100%
 }
 
 table {
-    font-family: 'Quattrocento', serif;
-    border-collapse: collapse;
-    width: 100%;
-    background-color: #FFFF
+  font-family: 'Quattrocento', serif;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #FFFF
 }
 
 td {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
 }
 
 th {
@@ -38,26 +38,26 @@ h3 {
 }
 
 .topnav {
-    background-color: #8D8741;
-    overflow: hidden;
+  background-color: #8D8741;
+  overflow: hidden;
 }
 
 .topnav a {
-    background-color: #8D8741;
-    font-family: 'Cinzel', serif;
-    float: left;
-    color: #FBEEC1;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    border-right: 1px solid #FBEEC1;
+  background-color: #8D8741;
+  font-family: 'Cinzel', serif;
+  float: left;
+  color: #FBEEC1;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-right: 1px solid #FBEEC1;
 }
 
 .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-    opacity: 0.3
+  background-color: #ddd;
+  color: black;
+  opacity: 0.3
 }
 
 .bg {
@@ -146,7 +146,7 @@ h3 {
   width: 100%;
 }
 
-#edit-food-form{
+#edit-food-form {
   display: none;
 }
 
